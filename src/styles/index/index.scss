@@ -1,0 +1,73 @@
+@mixin displayFlex { 
+  display: flex;
+}
+
+@mixin height ($height) { 
+  height: $height;
+}
+
+@mixin padding ($padding) { 
+  padding: $padding;
+}
+
+@mixin alingItems ($alingItems) { 
+  align-items: $alingItems;
+}
+
+@mixin margin ($margin) { 
+  margin: $margin;
+}
+
+@mixin justifyContent ($justifyContent) { 
+  justify-content: $justifyContent;
+}
+
+@mixin flexDirection ($flexDirection) { 
+  flex-direction: $flexDirection;
+}
+
+@mixin fontSize ($fontSize) { 
+  font-size: $fontSize;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+html, body{
+  @include height(100%);
+  @include margin(0);
+  @include padding(0);
+}
+
+body{
+  @include displayFlex;
+  @include justifyContent(center);
+  @include alingItems(center);
+  @include flexDirection(column);
+  background: rgb(225,243,255);
+  background: linear-gradient(0deg, rgba(225,243,255,0.6923144257703081) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,0.8323704481792717) 72%, rgba(225,243,255,1) 100%);
+}
+
+h1{
+  @include fontSize(calc(1.75rem + 1.5vw));
+  @include padding(0);
+  @include margin(0);
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+
+@media screen and (max-width:850px) {
+
+  body{
+    display: block;
+    @include height(100%);
+  }
+
+  h1 {
+    margin-top: 3rem;
+    @include fontSize(27px);
+  }
+
+}

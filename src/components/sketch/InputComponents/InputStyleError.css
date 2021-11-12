@@ -1,0 +1,10 @@
+
+    
+.form-control{
+    border: 1px solid #6592bf8c;    
+}
+
+.form-control.StyleError-Active{
+
+    border: 1px solid #ff0000e3;
+}
