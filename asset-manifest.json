@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/simulador-credito-react/static/css/main.7fd82875.chunk.css",
+    "main.js": "/simulador-credito-react/static/js/main.5ddd6d90.chunk.js",
+    "main.js.map": "/simulador-credito-react/static/js/main.5ddd6d90.chunk.js.map",
+    "runtime-main.js": "/simulador-credito-react/static/js/runtime-main.6ecedb00.js",
+    "runtime-main.js.map": "/simulador-credito-react/static/js/runtime-main.6ecedb00.js.map",
+    "static/js/2.8dee066e.chunk.js": "/simulador-credito-react/static/js/2.8dee066e.chunk.js",
+    "static/js/2.8dee066e.chunk.js.map": "/simulador-credito-react/static/js/2.8dee066e.chunk.js.map",
+    "static/js/3.bdbc7910.chunk.js": "/simulador-credito-react/static/js/3.bdbc7910.chunk.js",
+    "static/js/3.bdbc7910.chunk.js.map": "/simulador-credito-react/static/js/3.bdbc7910.chunk.js.map",
+    "static/js/4.c8f79bf3.chunk.js": "/simulador-credito-react/static/js/4.c8f79bf3.chunk.js",
+    "static/js/4.c8f79bf3.chunk.js.map": "/simulador-credito-react/static/js/4.c8f79bf3.chunk.js.map",
+    "static/js/5.165ac41d.chunk.js": "/simulador-credito-react/static/js/5.165ac41d.chunk.js",
+    "static/js/5.165ac41d.chunk.js.map": "/simulador-credito-react/static/js/5.165ac41d.chunk.js.map",
+    "index.html": "/simulador-credito-react/index.html",
+    "static/css/main.7fd82875.chunk.css.map": "/simulador-credito-react/static/css/main.7fd82875.chunk.css.map",
+    "static/js/2.8dee066e.chunk.js.LICENSE.txt": "/simulador-credito-react/static/js/2.8dee066e.chunk.js.LICENSE.txt",
+    "static/js/3.bdbc7910.chunk.js.LICENSE.txt": "/simulador-credito-react/static/js/3.bdbc7910.chunk.js.LICENSE.txt",
+    "static/js/4.c8f79bf3.chunk.js.LICENSE.txt": "/simulador-credito-react/static/js/4.c8f79bf3.chunk.js.LICENSE.txt",
+    "static/js/5.165ac41d.chunk.js.LICENSE.txt": "/simulador-credito-react/static/js/5.165ac41d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ecedb00.js",
+    "static/js/2.8dee066e.chunk.js",
+    "static/css/main.7fd82875.chunk.css",
+    "static/js/main.5ddd6d90.chunk.js"
+  ]
+}
